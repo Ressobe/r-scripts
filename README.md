@@ -1,5 +1,5 @@
 # r-scripts
-A collection of my dmenu scripts 
+A collection of my scripts 
 - r-battery (check my battery status)
 - r-doc (open my key binding pdf)
 - r-man (search for man page in dmenu)
